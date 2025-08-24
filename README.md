@@ -1,7 +1,7 @@
 # Pouria Nazemi
 💻 AI/ML Engineer | Researcher | Developer
 
-🎓 BSc in Computer Science, Ferdowsi University of Mashhad
+🎓 BSc in Computer Engineering, Ferdowsi University of Mashhad
 
 🔍 Exploring intelligent systems in healthcare, monitoring, and document processing
 
